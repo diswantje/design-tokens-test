@@ -1,0 +1,611 @@
+{
+  "border": {
+    "0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "DEFAULT": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "b": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "b-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "b-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "b-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "b-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "e": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "e-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "e-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "e-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "e-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "l": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "l-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "l-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "l-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "l-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "r": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "r-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "r-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "r-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "r-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "s": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "s-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "s-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "s-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "s-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "t": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "t-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "t-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "t-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "t-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "x": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "x-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "x-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "x-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "x-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "y": {
+      "$value": "{1}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "y-0": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "y-2": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "y-4": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    },
+    "y-8": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "STROKE_FLOAT"
+          ]
+        }
+      }
+    }
+  },
+  "rounded": {
+    "2xl": {
+      "$value": "{16}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "3xl": {
+      "$value": "{24}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "4xl": {
+      "$value": "{32}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "full": {
+      "$value": "{9999}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "lg": {
+      "$value": "{8}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "md": {
+      "$value": "{6}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "none": {
+      "$value": "{0}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "sm": {
+      "$value": "{4}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "xl": {
+      "$value": "{12}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "xs": {
+      "$value": "{2}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "accent": {
+    "$value": "{neutral.700}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "accent-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "attention": {
+    "$value": "{peach.500}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "attention-foreground": {
+    "$value": "{peach.950}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "background": {
+    "$value": "{neutral.950}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "background-color": {
+    "$value": "{black}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "background-hover": {
+    "$value": "#ffffff",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "border": {
+    "$value": "{neutral.700}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "card": {
+    "$value": "{neutral.900}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "card-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "chart-1": {
+    "$value": "UNRESOLVED_ALIAS(VariableID:3142:330)",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "chart-2": {
+    "$value": "UNRESOLVED_ALIAS(VariableID:3142:328)",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "chart-3": {
+    "$value": "UNRESOLVED_ALIAS(VariableID:3142:327)",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "chart-4": {
+    "$value": "UNRESOLVED_ALIAS(VariableID:3142:326)",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "chart-5": {
+    "$value": "UNRESOLVED_ALIAS(VariableID:3142:324)",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "destructive": {
+    "$value": "{red.400}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "destructive-hover": {
+    "$value": "{red.500}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "input": {
+    "$value": "{neutral.900}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "muted": {
+    "$value": "{neutral.800}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "muted-foreground": {
+    "$value": "{neutral.400}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "popover": {
+    "$value": "{neutral.800}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "popover-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "primary": {
+    "$value": "{neutral.200}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "primary-foreground": {
+    "$value": "{black}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "primary-hover": {
+    "$value": "#ffffff",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "ring": {
+    "$value": "{neutral.500}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "secondary": {
+    "$value": "{neutral.800}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "secondary-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "secondary-hover": {
+    "$value": "#ffffff",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "semantic-background": {
+    "$value": "{neutral.800}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "semantic-border": {
+    "$value": "{neutral.600}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "semantic-foreground": {
+    "$value": "{white}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar": {
+    "$value": "{neutral.900}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-accent": {
+    "$value": "{neutral.800}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-accent-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-border": {
+    "$value": "{neutral.700}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-primary": {
+    "$value": "UNRESOLVED_ALIAS(VariableID:3142:329)",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-primary-foreground": {
+    "$value": "{neutral.50}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "sidebar-ring": {
+    "$value": "{neutral.500}",
+    "$type": "color",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  }
+}

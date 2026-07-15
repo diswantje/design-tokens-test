@@ -1,0 +1,608 @@
+{
+  "max-w-0": {
+    "$value": "{0}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-0,5": {
+    "$value": "{2}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-1": {
+    "$value": "{4}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-1,5": {
+    "$value": "{6}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-2": {
+    "$value": "{8}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-2,5": {
+    "$value": "{10}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-2xl": {
+    "$value": "{672}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-3": {
+    "$value": "{12}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-3xl": {
+    "$value": "{768}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-4": {
+    "$value": "{16}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-4xl": {
+    "$value": "{896}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-5": {
+    "$value": "{20}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-5xl": {
+    "$value": "{1024}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-6": {
+    "$value": "{24}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-6xl": {
+    "$value": "{1152}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-7": {
+    "$value": "{28}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-7xl": {
+    "$value": "{1280}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-8": {
+    "$value": "{32}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-9": {
+    "$value": "{36}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-10": {
+    "$value": "{40}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-11": {
+    "$value": "{44}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-12": {
+    "$value": "{48}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-14": {
+    "$value": "{56}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-16": {
+    "$value": "{64}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-20": {
+    "$value": "{80}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-24": {
+    "$value": "{96}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-28": {
+    "$value": "{112}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-32": {
+    "$value": "{128}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-36": {
+    "$value": "{144}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-40": {
+    "$value": "{160}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-44": {
+    "$value": "{176}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-48": {
+    "$value": "{192}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-52": {
+    "$value": "{208}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-56": {
+    "$value": "{224}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-60": {
+    "$value": "{240}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-64": {
+    "$value": "{256}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-72": {
+    "$value": "{288}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-80": {
+    "$value": "{320}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-96": {
+    "$value": "{384}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-lg": {
+    "$value": "{512}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-md": {
+    "$value": "{448}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-none": {
+    "$value": "{0}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-px": {
+    "$value": "{1}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-screen-2xl": {
+    "$value": "{1536}",
+    "$type": "dimension",
+    "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-screen-lg": {
+    "$value": "{1024}",
+    "$type": "dimension",
+    "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-screen-md": {
+    "$value": "{768}",
+    "$type": "dimension",
+    "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-screen-sm": {
+    "$value": "{640}",
+    "$type": "dimension",
+    "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-screen-xl": {
+    "$value": "{1280}",
+    "$type": "dimension",
+    "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-sm": {
+    "$value": "{384}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ],
+        "codeSyntax": {
+          "WEB": "max-w-sm"
+        }
+      }
+    }
+  },
+  "max-w-xl": {
+    "$value": "{576}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "max-w-xs": {
+    "$value": "{320}",
+    "$type": "dimension",
+    "$description": "Utilities for setting the maximum width of an element.",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "stroke-0,5": {
+    "$value": "{0,5}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-0,75": {
+    "$value": "{0,75}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-1": {
+    "$value": "{1}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-1,5": {
+    "$value": "{1,5}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-1,25": {
+    "$value": "{1,25}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-1,75": {
+    "$value": "{1,75}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-2": {
+    "$value": "{2}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-2,5": {
+    "$value": "{2,5}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-2,25": {
+    "$value": "{2,25}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-2,75": {
+    "$value": "{2,75}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  },
+  "stroke-3": {
+    "$value": "{3}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "STROKE_FLOAT"
+        ]
+      }
+    }
+  }
+}

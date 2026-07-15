@@ -1,0 +1,254 @@
+{
+  "0": {
+    "$value": "0px",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "1": {
+    "$value": "{4}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "2": {
+    "$value": "{8}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "3": {
+    "$value": "{12}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "4": {
+    "$value": "{16}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "5": {
+    "$value": "{20}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "6": {
+    "$value": "{24}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "7": {
+    "$value": "{28}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "8": {
+    "$value": "{32}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "9": {
+    "$value": "{36}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "10": {
+    "$value": "{40}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "12": {
+    "$value": "{48}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "14": {
+    "$value": "{56}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "16": {
+    "$value": "{64}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "20": {
+    "$value": "{80}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "28": {
+    "$value": "{112}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "0,5": {
+    "$value": "{2}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "1,5": {
+    "$value": "{6}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "2,5": {
+    "$value": "{10}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "3,5": {
+    "$value": "{14}",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  },
+  "px": {
+    "$value": "1px",
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "scopes": [
+          "GAP",
+          "WIDTH_HEIGHT"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "name": "spacing",
+    "group": "spacing",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:12",
+    "$figmaModeId": "3142:10"
+  },
+  {
+    "name": "font",
+    "group": "font",
+    "selectedTokenSets": {
+      "font/font": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:11",
+    "$figmaModeId": "3142:9"
+  },
+  {
+    "name": "stroke-width",
+    "group": "stroke-width",
+    "selectedTokenSets": {
+      "stroke-width/stroke-width": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:15",
+    "$figmaModeId": "3142:13"
+  },
+  {
+    "name": "opacity",
+    "group": "opacity",
+    "selectedTokenSets": {
+      "opacity/opacity": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:10",
+    "$figmaModeId": "3142:8"
+  },
+  {
+    "name": "border",
+    "group": "border",
+    "selectedTokenSets": {
+      "border/border": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3155:2",
+    "$figmaModeId": "3155:0"
+  },
+  {
+    "name": "colors",
+    "group": "colors",
+    "selectedTokenSets": {
+      "colors/colors": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:9",
+    "$figmaModeId": "3142:7"
+  },
+  {
+    "name": "max-width",
+    "group": "max-width",
+    "selectedTokenSets": {
+      "max-width/max-width": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:16",
+    "$figmaModeId": "3142:14"
+  },
+  {
+    "name": "tokens",
+    "group": "tokens",
+    "selectedTokenSets": {
+      "tokens/tokens": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:19",
+    "$figmaModeId": "3142:17"
+  },
+  {
+    "name": "height",
+    "group": "height",
+    "selectedTokenSets": {
+      "height/height": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3165:2",
+    "$figmaModeId": "3165:0"
+  },
+  {
+    "name": "meadow - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/meadow - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3142:6"
+  },
+  {
+    "name": "meadow - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/meadow - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3148:22"
+  },
+  {
+    "name": "mode - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/mode - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3151:0"
+  },
+  {
+    "name": "mode - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/mode - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3151:1"
+  },
+  {
+    "name": "midnight - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/midnight - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3190:0"
+  },
+  {
+    "name": "midnight - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/midnight - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3190:1"
+  },
+  {
+    "name": "azure - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/azure - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:0"
+  },
+  {
+    "name": "azure - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/azure - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:1"
+  },
+  {
+    "name": "forest - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/forest - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:2"
+  },
+  {
+    "name": "forest - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/forest - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:3"
+  },
+  {
+    "name": "burgundy - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/burgundy - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:4"
+  },
+  {
+    "name": "burgundy - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/burgundy - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:5"
+  },
+  {
+    "name": "ember - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/ember - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:6"
+  },
+  {
+    "name": "ember - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/ember - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:7"
+  },
+  {
+    "name": "tangerine - dark",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/tangerine - dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:8"
+  },
+  {
+    "name": "tangerine - light",
+    "group": "theme",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "theme/tangerine - light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:8",
+    "$figmaModeId": "3227:9"
+  },
+  {
+    "name": "Destination",
+    "group": "direction",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "direction/Destination": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:3",
+    "$figmaModeId": "3142:1"
+  },
+  {
+    "name": "Neighborhood",
+    "group": "direction",
+    "selectedTokenSets": {
+      "spacing/spacing": "enabled",
+      "font/font": "enabled",
+      "stroke-width/stroke-width": "enabled",
+      "opacity/opacity": "enabled",
+      "border/border": "enabled",
+      "colors/colors": "enabled",
+      "max-width/max-width": "enabled",
+      "tokens/tokens": "enabled",
+      "height/height": "enabled",
+      "direction/Neighborhood": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3142:3",
+    "$figmaModeId": "3147:21"
+  }
+]

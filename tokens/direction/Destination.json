@@ -1,0 +1,85 @@
+{
+  "border-radius": {
+    "md": {
+      "$value": "{rounded.lg}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    },
+    "sm": {
+      "$value": "{rounded.md}",
+      "$type": "number",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      }
+    },
+    "xl": {
+      "$value": "{rounded.xl}",
+      "$type": "dimension",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "CORNER_RADIUS"
+          ]
+        }
+      }
+    }
+  },
+  "font": {
+    "display": {
+      "$value": "{family.serif}",
+      "$type": "text",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    },
+    "heading": {
+      "$value": "{family.serif}",
+      "$type": "text",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    },
+    "sans": {
+      "$value": "{family.sans}",
+      "$type": "text",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "FONT_FAMILY"
+          ]
+        }
+      }
+    },
+    "weight": {
+      "heading": {
+        "$value": "Regular",
+        "$type": "text",
+        "$extensions": {
+          "com.figma": {
+            "scopes": [
+              "FONT_STYLE"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
