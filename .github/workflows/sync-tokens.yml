@@ -1,0 +1,35 @@
+name: Sync Tokens from Tokens Studio
+
+on:
+  repository_dispatch:
+    types: [tokens_updated] # Wird automatisch getriggert, wenn du in Figma auf Push klickst!
+  workflow_dispatch: # Ermöglicht manuelles Starten per Knopfdruck auf GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Tokens Studio CLI
+        run: npm install @tokens-studio/cli
+
+      - name: Pull Tokens from Studio
+        env:
+          TS_API_KEY: ${{ secrets.TOKENS_STUDIO_API_KEY }}
+        run: npx tokens-studio pull --project cddac7ca-33d2-4b4e-8464-b2b7db173200 --out ./tokens/tokens.json
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update design tokens from figma"
+          title: "🎨 New Design Tokens from Figma"
+          body: "This PR contains the latest token updates pushed from Figma via Companion."
+          branch: "feature/figma-tokens-update" # Erstellt einen eigenen Branch fürs Mergen
